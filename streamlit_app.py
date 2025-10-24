@@ -50,7 +50,7 @@ with st.expander("Klik untuk Melihat Informasi Kontak"):
         | :--- | :--- |
         | 🌐 **Website** | [banjarnegara.kpu.go.id](https://banjarnegara.kpu.go.id) |
         | 📧 **Email** | kpu.banjarnegara@gmail.com (Contoh) |
-        | 📍 **Alamat** | Jl. Nasional Raya No. 1, Banjarnegara |
+        | 📍 **Alamat** | Jl. Selamanik No. 10, Banjarnegara |
         | 📞 **Telepon** | (0286) xxxxxxx |
     """)
 
